@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{BrYq:function(o){o.exports=JSON.parse('{"word":"Slovo","nest":"Kore","pos":"Cestj slova","affixes":"Nastavky","prefixes":"Predstavky","send":"Poslati","addWord":"Dodati slovo","addAffix":"Dodati affix","search":"Search","addForm":"Dodati slovo form"}')}}]);
